@@ -1,0 +1,20 @@
+
+{
+    "name": "Grocery app",
+    "short_name": "Grocery app",
+    "description": "Progressive Web App feature added in our application",
+    "icons": [
+        {
+            "src":"./images/logo1.png",
+            "sizes":"512x512",
+            "type":"image/png",
+            "purpose":"any maskable"
+        }
+    ],
+    "id":"https://ayub101.github.io/Grocery_app/",
+    "start_url": "https://ayub101.github.io/Grocery_app/",
+    "display": "fullscreen",
+    "theme_color": "#00FF00",
+    "background_color": "#FFFFFF",
+    "orientation":"portrait"
+  }
